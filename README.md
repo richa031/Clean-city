@@ -7,3 +7,5 @@ The idea is to make an application where these sensors can be connected to the u
 
 ![images](https://user-images.githubusercontent.com/32764563/96242861-95b98400-0fc1-11eb-81c7-35cd20de6a5e.jpg)
 
+This same application can be utilized by the authorities managing garbage so as to ease the process.
+
